@@ -1,0 +1,7 @@
+server:
+  svr_ip: 127.0.0.1
+  svr_port: 23000
+redis:
+  ip: 47.93.97.143
+  port: 6379
+  passwd: 7XQnwjQvvaXWbjYYhaKy
